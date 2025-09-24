@@ -1,4 +1,4 @@
-# Amigo Secreto
+Amigo Secreto
 
 Aplicación web para realizar sorteos de amigo secreto.
 
@@ -19,5 +19,3 @@ Permite agregar nombres de participantes y realizar un sorteo aleatorio para asi
 2. Presiona "Añadir" o la tecla Enter
 3. Haz clic en "Sortear amigo" para realizar el sorteo
 4. El resultado se mostrará en pantalla
-
-## Estructura de archivos
